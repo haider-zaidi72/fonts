@@ -19,7 +19,7 @@ p{
 @media screen and (max-width:680px) {
     h1{
         font-size: 1.25em;
-        color: rgb(0, 225, 255)  !important;
+        color: rgb(59, 67, 141)  !important;
     }    
     h2{
         font-size: 1em;
@@ -34,21 +34,3 @@ p{
     }
 }
 
-
-@media screen and (max-width:380px) {
-    h1{
-        font-size: 1.25em;
-        color: orange  !important;
-    }    
-    h2{
-        font-size: 1em;
-        color: gray;
-    }
-    p{
-        font-size: 0.8em;
-        color: purple;
-    }
-    body{
-        background-color: red !important;
-    }
-}
