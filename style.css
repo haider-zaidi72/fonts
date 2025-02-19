@@ -35,7 +35,7 @@ p{
 }
 
 
-@media screen and (max-width:360px) {
+@media screen and (max-width:370px) {
     h1{
         font-size: 1.25em;
         color: orange  !important;
