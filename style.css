@@ -15,6 +15,21 @@ p{
     text-align: justify;
     font-size: 1em;
 }
+
+@media screen and (max-width:720px) {
+    h1{
+        font-size: 1.25em;
+        color: orange;
+    }    
+    h2{
+        font-size: 1em;
+        color: gray;
+    }
+    p{
+        font-size: 0.8em;
+        color: purple;
+    }
+}
 @media screen and (max-width:414px) {
     h1{
         font-size: 1.25em;
