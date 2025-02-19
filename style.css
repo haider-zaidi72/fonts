@@ -16,7 +16,7 @@ p{
     font-size: 1em;
 }
 
-@media screen and (max-width:720px) {
+@media screen and (max-width:680px) {
     h1{
         font-size: 1.25em;
         color: orange;
