@@ -1,0 +1,31 @@
+*{ 
+      font-family: "Roboto", serif;
+      font-optical-sizing: auto;
+      font-style: normal;
+}
+h1{
+    font-size: 2em;
+    font-weight:700;
+    color: blue;
+}
+h2{
+    font-size: 1.5em;
+}
+p{
+    text-align: justify;
+    font-size: 1em;
+}
+@media screen and (max-width:414px) {
+    h1{
+        font-size: 1.25em;
+        color: red;
+    }    
+    h2{
+        font-size: 1em;
+        color: red;
+    }
+    p{
+        font-size: 0.8em;
+        color: red;
+    }
+}
