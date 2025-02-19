@@ -16,7 +16,22 @@ p{
     font-size: 1em;
 }
 
-@media screen and (max-width:680px) {
+
+@media (max-width:414px) {
+    h1{
+        font-size: 1.25em;
+        color: red;
+    }    
+    h2{
+        font-size: 1em;
+        color: red;
+    }
+    p{
+        font-size: 0.8em;
+        color: red;
+    }
+}
+@media (max-width:360px) {
     h1{
         font-size: 1.25em;
         color: orange;
@@ -28,19 +43,5 @@ p{
     p{
         font-size: 0.8em;
         color: purple;
-    }
-}
-@media screen and (max-width:414px) {
-    h1{
-        font-size: 1.25em;
-        color: red;
-    }    
-    h2{
-        font-size: 1em;
-        color: red;
-    }
-    p{
-        font-size: 0.8em;
-        color: red;
     }
 }
