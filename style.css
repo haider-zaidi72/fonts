@@ -33,4 +33,21 @@ p{
         background-color: rgb(53, 91, 194) !important;
     }
 }
+@media screen and (max-width:1690px) {
+    h1{
+        font-size: 1.25em;
+        color: rgb(59, 67, 141)  !important;
+    }    
+    h2{
+        font-size: 1em;
+        color: gray;
+    }
+    p{
+        font-size: 0.8em;
+        color: purple;
+    }
+    body{
+        background-color: rgb(53, 91, 194) !important;
+    }
+}
 
