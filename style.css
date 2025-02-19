@@ -33,7 +33,7 @@ p{
         background-color: rgb(53, 91, 194) !important;
     }
 }
-@media screen and (max-width:1690px) {
+@media screen and (max-width:1490px) {
     h1{
         font-size: 1.25em;
         color: rgb(59, 67, 141)  !important;
