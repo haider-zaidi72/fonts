@@ -18,15 +18,15 @@ p{
 
 @media screen and (max-width:1520px) {
     h1{
-        font-size: 2em;
+        font-size: 1.6em;
         color: rgb(59, 67, 141)  !important;
     }    
     h2{
-        font-size: 1.5em;
+        font-size: 1.2em;
         color: gray;
     }
     p{
-        font-size: 1em;
+        font-size: 0.8em;
         color: purple;
     }
     body{
@@ -36,15 +36,15 @@ p{
 
 @media screen and (max-width:704px) {
     h1{
-        font-size: 2em;
+        font-size: 1.8em;
         color: rgb(230, 134, 44)  !important;
     }    
     h2{
-        font-size: 1.5em;
+        font-size: 1.35em;
         color: gray;
     }
     p{
-        font-size: 1em;
+        font-size: 0.9em;
         color: purple;
     }
     body{
