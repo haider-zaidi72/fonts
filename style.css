@@ -34,7 +34,9 @@ p{
     }
     .img{
         width: 1520px;
+        image-resolution: 1520px;
     }
+    
 }
 
 @media screen and (max-width:704px) {
@@ -55,7 +57,10 @@ p{
     }
     .img{
         width: 704px;
+        image-resolution: 704px;
     }
+
+
 }
 
 
