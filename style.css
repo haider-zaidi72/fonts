@@ -34,12 +34,12 @@ p{
     }
     .img{
         width: 1520px;
-        image-resolution: 1520px;
+        image-resolution: 740px;
     }
     
 }
 
-@media screen and (max-width:704px) {
+@media screen and (max-width:720px) {
     h1{
         font-size: 1.6em;
         color: rgb(230, 134, 44)  !important;
@@ -57,7 +57,7 @@ p{
     }
     .img{
         width: 704px;
-        image-resolution: 704px;
+        image-resolution: 360px;
     }
 
 
