@@ -18,37 +18,37 @@ p{
 
 @media screen and (max-width:1520px) {
     h1{
-        font-size: 1.25em;
+        font-size: 2em;
         color: rgb(59, 67, 141)  !important;
     }    
     h2{
-        font-size: 1em;
+        font-size: 1.5em;
         color: gray;
     }
     p{
-        font-size: 0.8em;
+        font-size: 1em;
         color: purple;
     }
     body{
-        background-color: rgb(53, 91, 194) !important;
+        /* background-color: rgb(53, 91, 194) !important; */
     }
 }
 
 @media screen and (max-width:720px) {
     h1{
-        font-size: 1.25em;
+        font-size: 2em;
         color: rgb(230, 134, 44)  !important;
     }    
     h2{
-        font-size: 1em;
+        font-size: 1.5em;
         color: gray;
     }
     p{
-        font-size: 0.8em;
+        font-size: 1em;
         color: purple;
     }
     body{
-        background-color: rgb(99, 43, 126) !important;
+        /* background-color: rgb(99, 43, 126) !important; */
     }
 }
 
